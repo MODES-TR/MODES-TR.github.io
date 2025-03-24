@@ -10,10 +10,10 @@ bio: "Chenglin earned his ​Bachelor of Information Management and Information 
 photo: "../images/photos/Chenglin.png"
 ---
 
-# Xinzhu Ren (2024 Fall)
+# Chenglin Zhuang (2024 Fall)
 
 **Role**: Ph.D. Student  
 **Research Interests**: Generalized nash equilibrium problem in intelligent transportation  
 **Bio**: Chenglin earned his ​Bachelor of Information Management and Information Systems from Northeastern University, followed by a ​Master of Management Science and Engineering from Shenzhen University. His research centers on ​Generalized Nash Equilibrium Problems (GNEPs) in intelligent transportation systems.
 
-![Xinzhu Ren](../images/photos/Xinzhu.jpeg)
+![Chenglin Zhuang](../images/photos/Chenglin.jpeg)
