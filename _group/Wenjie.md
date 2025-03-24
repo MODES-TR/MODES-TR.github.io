@@ -15,4 +15,4 @@ photo: "../images/photos/Wenjie.png"
 **Research Interests**: Network flow, Cascading failures.  
 **Bio**: Wenjie obtained a Bachelor's degree in Information Management and Information Systems from Nankai University. Her researcr interests include network flow and cascading failures in transportation.  
 
-![Wenjie ZHU](../images/photos/Wenjie.png)
+![Wenjie ZHU](../images/photos/Wenjie.jpeg)
