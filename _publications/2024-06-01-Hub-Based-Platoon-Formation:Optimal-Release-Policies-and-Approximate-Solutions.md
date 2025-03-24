@@ -1,7 +1,7 @@
 ---
 title: "Hub-Based Platoon Formation: Optimal Release Policies and Approximate Solutions"
 collection: publications
-category: journal papers
+category: manuscripts
 permalink: /publication/2024-06-01-Hub-Based-Platoon-Formation:Optimal-Release-Policies-and-Approximate-Solutions
 excerpt: "This study optimizes truck platoon formation at highway hubs under decentralized, distributed, and centralized policies by developing dynamic programming-driven release thresholds and receding horizon solutions, revealing that decentralized strategies—despite yielding ~3.5% and 8% lower rewards than distributed and centralized approaches—achieve near-optimal performance without inter-hub coordination, validated via simulations on Swedish highway hubs."
 date: 2024-06-01
