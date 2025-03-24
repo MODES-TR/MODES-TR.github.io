@@ -109,6 +109,17 @@ citation: "论文引用信息"
 ---
 ```
 3. 你可以为每篇论文提供 slidesurl 和 paperurl，但这些字段可以根据需要省略。
+4. （重要）在实际操作中发现更新时会出现分类错误导致论文无法显示，这是因为在config.yml中，分类对应的命名规则是这样的：
+   # Publication Category - The following the list of publication categories and their headings
+publication_category:
+  books:
+    title: 'Books'
+  manuscripts:
+    title: 'Journal Articles'    
+  conferences:
+    title: 'Conference Papers'
+
+当你需要添加Journal paper的时候，你应该填写manuscript而不是Journal Articles。（院长挠头.jpg)
 
 ### 添加新的组员
 1. 在 _group 文件夹中创建一个新的 Markdown 文件，命名格式为：组员名字.md。
