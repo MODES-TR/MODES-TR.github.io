@@ -2,7 +2,7 @@
 title: "Xinzhu attended Transportation Science and Logistics Conference in Seoul，Korea from May 19 to 21, 2025, and made presentations."
 collection: updates
 date: 2025-05-19
-permalink: /updates/2025-05-19-Xinzhu-TSL2025
+permalink: /updates/2025-05-19-xinzhu-transportation science and logistics
 image: "../images/xinzu-shouer.jpg"
 
 ---
